@@ -1,0 +1,647 @@
+,Name,Note,Price ($),URL
+0,GeForce RTX 4090,38875,1699.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4090&id=4606
+1,GeForce RTX 4080,34684,1149.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4080&id=4622
+2,GeForce RTX 4070 Ti,31704,782.2,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4070+Ti&id=4699
+3,Radeon RX 7900 XTX,31036,979.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7900+XTX&id=4644
+4,GeForce RTX 3090 Ti,29818,1539.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3090+Ti&id=4524
+5,Radeon PRO W7900,29784,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+PRO+W7900&id=4833
+6,Radeon PRO W7800,29140,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+PRO+W7800&id=4836
+7,Radeon RX 7900 XT,28906,999.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7900+XT&id=4646
+8,GeForce RTX 4090 Laptop GPU,28674,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4090+Laptop+GPU&id=4737
+9,Radeon RX 6950 XT,28481,862.25,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6950+XT&id=4540
+10,GeForce RTX 3080 Ti,27322,849.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3080+Ti&id=4409
+11,Radeon RX 6900 XT,26957,834.41,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6900+XT&id=4322
+12,GeForce RTX 4070,26881,549.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4070&id=4795
+13,GeForce RTX 3090,26866,979.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3090&id=4284
+14,GeForce RTX 3080 12GB,26716,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3080+12GB&id=4601
+15,GeForce RTX 4080 Laptop GPU,26272,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4080+Laptop+GPU&id=4736
+16,GeForce RTX 3080,25356,679.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3080&id=4282
+17,RTX 4000 Ada Generation,25226,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+4000+Ada+Generation&id=4942
+18,Radeon RX 6800 XT,25124,569.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6800+XT&id=4312
+19,Radeon RX 7900 GRE,24853,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7900+GRE&id=4906
+20,RTX 4000 Ada Generation Laptop GPU,24197,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+4000+Ada+Generation+Laptop+GPU&id=4819
+21,Radeon RX 7800 XT,23794,529.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7800+XT&id=4917
+22,GeForce RTX 3070 Ti,23764,499.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3070+Ti&id=4413
+23,RTX 5000 Ada Generation Laptop GPU,23353,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+5000+Ada+Generation+Laptop+GPU&id=4807
+24,RTX 6000 Ada Generation,23103,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+6000+Ada+Generation&id=4768
+25,RTX A5000,23009,2229.99,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A5000&id=4390
+26,RTX A6000,22897,4109.99,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A6000&id=4337
+27,GeForce RTX 4060 Ti 16GB,22834,499.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4060+Ti+16GB&id=4898
+28,GeForce RTX 4060 Ti,22555,384.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4060+Ti&id=4827
+29,GeForce RTX 3070,22465,449.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3070&id=4283
+30,Radeon RX 6800,22298,389.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6800&id=4314
+31,RTX 4500 Ada Generation,22293,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+4500+Ada+Generation&id=4958
+32,Radeon RX 7900M,22089,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7900M&id=4946
+33,NVIDIA A10,22064,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=NVIDIA+A10&id=4632
+34,GeForce RTX 2080 Ti,21840,1399.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080+Ti&id=3991
+35,RTX A4500,21787,1079.99,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A4500&id=4514
+36,Radeon RX 7700 XT,21387,429.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7700+XT&id=4919
+37,RTX A5500,21030,2169.99,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A5500&id=4539
+38,RTX 3500 Ada Generation Laptop GPU,20964,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+3500+Ada+Generation+Laptop+GPU&id=4800
+39,Radeon RX 6750 XT,20878,410.25,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6750+XT&id=4543
+40,GeForce RTX 3060 Ti,20599,359.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3060+Ti&id=4318
+41,RTX 4000 SFF Ada Generation,20529,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+4000+SFF+Ada+Generation&id=4801
+42,GeForce RTX 3080 Ti Laptop GPU,20218,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3080+Ti+Laptop+GPU&id=4491
+43,Quadro GV100,20021,8999.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+GV100&id=3919
+44,TITAN RTX,19972,2409.2,https://www.videocardbenchmark.net/gpu.php?gpu=TITAN+RTX&id=4029
+45,Radeon PRO W6800,19967,1849.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+PRO+W6800&id=4411
+46,Radeon RX 6700 XT,19876,319.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6700+XT&id=4369
+47,TITAN V,19784,1999.99,https://www.videocardbenchmark.net/gpu.php?gpu=TITAN+V&id=3859
+48,GeForce RTX 2080 SUPER,19599,684.86,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080+SUPER&id=4123
+49,GeForce RTX 4070 Laptop GPU,19580,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4070+Laptop+GPU&id=4756
+50,GeForce RTX 4060,19511,299.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4060&id=4850
+51,Quadro RTX 8000,19496,4741.49,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+RTX+8000&id=4061
+52,TITAN Xp COLLECTORS EDITION,19356,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=TITAN+Xp+COLLECTORS+EDITION&id=3863
+53,RTX A4000,19334,749.99,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A4000&id=4394
+54,Quadro RTX 6000,19247,6300.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+RTX+6000&id=4015
+55,GeForce RTX 2080,18802,800.61,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080&id=3989
+56,Radeon RX 6700,18743,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6700&id=4564
+57,NVIDIA TITAN Xp,18631,1645.0,https://www.videocardbenchmark.net/gpu.php?gpu=NVIDIA+TITAN+Xp&id=3728
+58,RTX 3000 Ada Generation Laptop GPU,18570,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+3000+Ada+Generation+Laptop+GPU&id=4930
+59,GeForce GTX 1080 Ti,18540,483.82,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1080+Ti&id=3699
+60,Radeon RX 6850M XT,18418,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6850M+XT&id=4574
+61,NVIDIA A10G,18293,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=NVIDIA+A10G&id=4546
+62,GeForce RTX 3070 Ti Laptop GPU,18261,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3070+Ti+Laptop+GPU&id=4497
+63,GeForce RTX 2070 SUPER,18253,497.95,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2070+SUPER&id=4116
+64,GeForce RTX 4060 Laptop GPU,17999,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4060+Laptop+GPU&id=4752
+65,A40-48Q,17864,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=A40-48Q&id=4751
+66,Radeon PRO W7600,17632,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+PRO+W7600&id=4889
+67,RTX A4500 Laptop GPU,17606,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A4500+Laptop+GPU&id=4565
+68,Radeon Pro W5700X,17591,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+W5700X&id=4641
+69,RTX A5500 Laptop GPU,17581,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A5500+Laptop+GPU&id=4562
+70,Radeon RX 6650 XT,17443,259.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6650+XT&id=4541
+71,GeForce RTX 3060,17092,284.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3060&id=4345
+72,TITAN V CEO Edition,16988,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=TITAN+V+CEO+Edition&id=4005
+73,Radeon RX 5700 XT,16767,517.94,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5700+XT&id=4111
+74,Radeon VII,16744,1899.95,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+VII&id=4050
+75,Radeon RX 5700 XT 50th Anniversary,16615,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5700+XT+50th+Anniversary&id=4114
+76,GeForce RTX 2060 SUPER,16582,415.98,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2060+SUPER&id=4117
+77,GeForce RTX 3080 Laptop GPU,16549,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3080+Laptop+GPU&id=4332
+78,Radeon RX 6600 XT,16466,262.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6600+XT&id=4444
+79,Tesla V100-SXM2-16GB,16235,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+V100-SXM2-16GB&id=4105
+80,GeForce RTX 2070,16181,519.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2070&id=4001
+81,Radeon RX 7600,16126,259.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7600&id=4832
+82,Radeon PRO W6600,16075,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+PRO+W6600&id=4445
+83,Quadro RTX 5000,16027,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+RTX+5000&id=4040
+84,Radeon Pro Vega II Duo,15977,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+Vega+II+Duo&id=4758
+85,Miracast display port driver V3,15910,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Miracast+display+port+driver+V3&id=3768
+86,GeForce RTX 2060 12GB,15905,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2060+12GB&id=4602
+87,RTX A5000 Laptop GPU,15899,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A5000+Laptop+GPU&id=4416
+88,Radeon PRO W7500,15831,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+PRO+W7500&id=4890
+89,Radeon Pro Vega II,15668,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+Vega+II&id=4189
+90,Quadro GP100,15608,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+GP100&id=3721
+91,RTX A4000 Laptop GPU,15593,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A4000+Laptop+GPU&id=4421
+92,RTX 2000 Ada Generation Laptop GPU,15554,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+2000+Ada+Generation+Laptop+GPU&id=4785
+93,GeForce RTX 3070 Laptop GPU,15526,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3070+Laptop+GPU&id=4331
+94,GeForce GTX 1080,15507,442.79,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1080&id=3502
+95,Radeon RX 6800S,15498,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6800S&id=4542
+96,Quadro RTX 4000,15466,899.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+RTX+4000&id=4053
+97,Radeon Pro VII,15441,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+VII&id=4306
+98,Radeon Pro W5700,15438,649.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+W5700&id=4182
+99,Radeon RX 7700S,15142,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7700S&id=4887
+100,Radeon RX 6600,15130,329.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6600&id=4465
+101,GeForce RTX 2080 (Mobile),15107,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080+%28Mobile%29&id=4084
+102,Quadro P6000,14927,3250.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P6000&id=3597
+103,Radeon RX 6600S,14897,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6600S&id=4755
+104,Radeon RX 6700S,14891,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6700S&id=4510
+105,Quadro RTX 5000 (Mobile),14832,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+RTX+5000+%28Mobile%29&id=4147
+106,GeForce GTX 1070 Ti,14712,569.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1070+Ti&id=3842
+107,GeForce RTX 4050 Laptop GPU,14703,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+4050+Laptop+GPU&id=4763
+108,Radeon Pro Vega 64X,14631,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+Vega+64X&id=4417
+109,Radeon RX 5700,14588,309.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5700&id=4107
+110,RTX A3000 12GB Laptop GPU,14533,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A3000+12GB+Laptop+GPU&id=4503
+111,RTX 5000 Ada Generation,14506,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+5000+Ada+Generation&id=4935
+112,Radeon RX Vega 64,14476,749.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+Vega+64&id=3808
+113,GeForce RTX 2060,14126,361.12,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2060&id=4037
+114,Radeon Pro WX 8200,13932,1599.39,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+WX+8200&id=3976
+115,GeForce RTX 2070 Super with Max-Q Design,13923,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2070+Super+with+Max-Q+Design&id=4204
+116,RadeonT RX 6850M XT,13848,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RadeonT+RX+6850M+XT&id=4849
+117,GeForce RTX 2080 Super with Max-Q Design,13844,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080+Super+with+Max-Q+Design&id=4202
+118,GeForce GTX 980 Ti,13829,778.69,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+980+Ti&id=3218
+119,Radeon RX 7600S,13826,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7600S&id=4835
+120,RTX A2000,13791,768.99,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A2000&id=4477
+121,Radeon RX 5600 XT,13758,545.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5600+XT&id=4186
+122,Radeon RX 6650M,13676,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6650M&id=4557
+123,NVIDIA TITAN X,13660,608.1,https://www.videocardbenchmark.net/gpu.php?gpu=NVIDIA+TITAN+X&id=3554
+124,RTX A2000 12GB,13642,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A2000+12GB&id=4533
+125,Radeon RX 6600M,13599,199.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6600M&id=4449
+126,Quadro RTX 5000 with Max-Q Design,13591,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+RTX+5000+with+Max-Q+Design&id=4144
+127,GeForce GTX 1070,13515,488.09,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1070&id=3521
+128,GeForce RTX 3060 Laptop GPU,13412,309.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3060+Laptop+GPU&id=4342
+129,Radeon RX Vega 56,13407,752.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+Vega+56&id=3821
+130,Radeon Vega Frontier Edition,13389,1679.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Vega+Frontier+Edition&id=3775
+131,NVIDIA A40,13371,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=NVIDIA+A40&id=4551
+132,Radeon RX 6700M,13283,269.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6700M&id=4458
+133,GeForce RTX 2080 with Max-Q Design,13204,2099.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2080+with+Max-Q+Design&id=4041
+134,Radeon RX 6800M,13188,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6800M&id=4415
+135,Intel d gfx-driver-ci-master-14429 DCH RI,13174,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+d+gfx-driver-ci-master-14429+DCH+RI&id=4895
+136,Radeon PRO W6600X,13113,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+PRO+W6600X&id=4609
+137,GeForce GTX TITAN X,13055,1096.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+TITAN+X&id=3162
+138,Radeon Pro Vega 64,12984,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+Vega+64&id=3879
+139,Tesla V100-PCIE-16GB,12983,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+V100-PCIE-16GB&id=4226
+140,GeForce RTX 3050,12962,209.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3050&id=4495
+141,Radeon Pro WX 9100,12960,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+WX+9100&id=3833
+142,GeForce GTX 1660 Ti,12956,619.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1660+Ti&id=4045
+143,GeForce GTX 1660 SUPER,12783,227.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1660+SUPER&id=4159
+144,Radeon Pro 5700 XT,12708,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+5700+XT&id=4250
+145,Quadro RTX 4000 (Mobile),12668,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+RTX+4000+%28Mobile%29&id=4148
+146,Quadro RTX 4000 with Max-Q Design,12668,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+RTX+4000+with+Max-Q+Design&id=4161
+147,Tesla T10,12650,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+T10&id=4222
+148,Quadro P5200 with Max-Q Design,12608,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P5200+with+Max-Q+Design&id=3996
+149,Quadro P5200,12594,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P5200&id=3888
+150,RTX A3000 Laptop GPU,12499,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A3000+Laptop+GPU&id=4414
+151,GeForce RTX 2070 (Mobile),12354,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2070+%28Mobile%29&id=4083
+152,Radeon Pro Vega 56,12354,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+Vega+56&id=3912
+153,Quadro P5000,12298,1868.99,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P5000&id=3607
+154,Radeon RX 6850M,12274,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6850M&id=4511
+155,Radeon Pro V520 MxGPU,12258,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+V520+MxGPU&id=4328
+156,Radeon RX 5600 OEM,12229,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5600+OEM&id=4640
+157,GeForce RTX 3050 OEM,12084,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3050+OEM&id=4569
+158,GeForce RTX 2070 with Max-Q Design,11890,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2070+with+Max-Q+Design&id=4048
+159,Quadro M6000 24GB,11879,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M6000+24GB&id=3544
+160,Radeon Pro 5700,11844,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+5700&id=4252
+161,Quadro M6000,11741,4827.53,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M6000&id=3106
+162,GeForce GTX 1660,11711,299.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1660&id=4062
+163,Quadro P4000,11648,556.19,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P4000&id=3719
+164,Intel Arc A580,11578,424.85,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc+A580&id=4940
+165,GeForce GTX 1080 with Max-Q Design,11577,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1080+with+Max-Q+Design&id=3784
+166,Radeon RX 5600,11507,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5600&id=4205
+167,Tesla P40,11395,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+P40&id=4548
+168,GeForce RTX 2060 (Mobile),11355,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2060+%28Mobile%29&id=4085
+169,Radeon Pro Vega 48,11300,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+Vega+48&id=4127
+170,Quadro P4200 with Max-Q Design,11163,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P4200+with+Max-Q+Design&id=3999
+171,Quadro RTX 3000,11150,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+RTX+3000&id=4119
+172,GeForce GTX 980,11140,247.35,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+980&id=2953
+173,CMP 40HX,11072,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=CMP+40HX&id=4903
+174,RTX A1000 Embedded GPU,11047,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A1000+Embedded+GPU&id=4613
+175,GRID P40-12Q,11028,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+P40-12Q&id=4642
+176,RTX A2000 8GB Laptop GPU,10937,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A2000+8GB+Laptop+GPU&id=4553
+177,Tesla T4,10762,4415.37,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+T4&id=4211
+178,GeForce RTX 3050 6GB Laptop GPU,10682,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3050+6GB+Laptop+GPU&id=4782
+179,Radeon Pro SSG,10498,2410.15,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+SSG&id=3985
+180,Tesla M40 24GB,10475,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+M40+24GB&id=4450
+181,GeForce GTX 1070 (Mobile),10465,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1070+%28Mobile%29&id=4087
+182,Quadro P4200,10445,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P4200&id=3959
+183,Radeon RX 7600M XT,10439,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+7600M+XT&id=4844
+184,GeForce GTX 1660 Ti (Mobile),10213,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1660+Ti+%28Mobile%29&id=4091
+185,Tesla M40,10183,600.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+M40&id=4395
+186,GeForce RTX 3050 Ti Laptop GPU,10183,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3050+Ti+Laptop+GPU&id=4393
+187,GeForce GTX 1650 SUPER,10118,184.05,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1650+SUPER&id=4167
+188,GeForce GTX 1060,10075,279.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060&id=3548
+189,GeForce GTX 1070 with Max-Q Design,10041,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1070+with+Max-Q+Design&id=3779
+190,RTX A2000 Laptop GPU,10032,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A2000+Laptop+GPU&id=4438
+191,Radeon R9 Fury X,10017,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+Fury+X&id=3634
+192,RTX A1000 6GB Laptop GPU,10000,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A1000+6GB+Laptop+GPU&id=4804
+193,GRID P40-2B,9842,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+P40-2B&id=3951
+194,GeForce RTX 2060 with Max-Q Design,9787,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2060+with+Max-Q+Design&id=4199
+195,GeForce GTX 1060 3GB,9762,269.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060+3GB&id=3566
+196,Radeon R9 Fury + Fury X,9741,449.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+Fury+%2B+Fury+X&id=3245
+197,Radeon RX 6550M,9669,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6550M&id=4941
+198,Intel Arc A770,9648,269.99,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc+A770&id=4605
+199,GeForce GTX 970,9645,237.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+970&id=2954
+200,Radeon R9 Fury,9605,443.1,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+Fury&id=3256
+201,RTX A1000 Laptop GPU,9553,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A1000+Laptop+GPU&id=4558
+202,Radeon RX 590,9489,549.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+590&id=4025
+203,Radeon RX 6500 XT,9486,189.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6500+XT&id=4488
+204,GeForce GTX 780 Ti,9486,339.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+780+Ti&id=2717
+205,Radeon Ryzen 9 4900HSS,9461,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+9+4900HSS&id=4385
+206,Radeon R9 390X,9446,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+390X&id=3467
+207,Radeon Pro 5600M,9415,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+5600M&id=4225
+208,Intel Arc Pro A60,9409,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc+Pro+A60&id=4911
+209,GeForce RTX 3050 Laptop GPU,9409,269.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3050+Laptop+GPU&id=4408
+210,Quadro M5000,9392,499.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M5000&id=3369
+211,Quadro P2200,9376,459.8,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P2200&id=4133
+212,Radeon RX 5500 XT,9183,184.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5500+XT&id=4174
+213,Intel Arc A750,9178,209.99,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc+A750&id=4612
+214,Radeon Pro W5500,9134,409.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+W5500&id=4192
+215,Quadro P3200 with Max-Q Design,9113,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P3200+with+Max-Q+Design&id=3963
+216,GRID P40-2B4,9111,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+P40-2B4&id=4848
+217,Quadro P3200,9100,389.3,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P3200&id=3942
+218,Quadro P4000 with Max-Q Design,9083,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P4000+with+Max-Q+Design&id=3829
+219,GeForce GTX 1060 5GB,9032,487.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060+5GB&id=3923
+220,GeForce GTX TITAN Black,9016,524.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+TITAN+Black&id=2842
+221,Radeon R9 390,8990,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+390&id=3464
+222,GeForce GTX TITAN Z,8987,1515.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+TITAN+Z&id=2884
+223,GRID P40-8Q,8967,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+P40-8Q&id=4834
+224,Radeon RX 580,8897,179.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+580&id=3736
+225,Radeon RX 5500,8839,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5500&id=4164
+226,Tesla P4,8719,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+P4&id=4631
+227,GeForce GTX 1660 Ti with Max-Q Design,8686,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1660+Ti+with+Max-Q+Design&id=4082
+228,Radeon R9 290X,8660,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+290X&id=4263
+229,Radeon RX 480,8655,339.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+480&id=3533
+230,Radeon R9 295X2,8638,499.1,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+295X2&id=2878
+231,Radeon RX590 GME,8538,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX590+GME&id=4290
+232,GRID RTX6000-1B,8473,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+RTX6000-1B&id=4855
+233,Quadro RTX 3000 with Max-Q Design,8419,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+RTX+3000+with+Max-Q+Design&id=4152
+234,Radeon R9 290X / 390X,8389,319.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+290X+%2F+390X&id=2697
+235,RTX A4500 Embedded GPU,8373,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A4500+Embedded+GPU&id=4947
+236,Ryzen 5 4600HS with Radeon Graphics,8371,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+5+4600HS+with+Radeon+Graphics&id=4277
+237,Radeon R9 290,8357,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+290&id=4259
+238,Radeon Pro 5500 XT,8330,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+5500+XT&id=4264
+239,Radeon RX 5600M,8326,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5600M&id=4217
+240,Radeon Pro Duo,8296,3970.36,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+Duo&id=3575
+241,Intel Arc A730M,8274,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc+A730M&id=4928
+242,Tesla V100-PCIE-32GB,8260,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+V100-PCIE-32GB&id=4447
+243,GeForce GTX Titan,8212,745.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+Titan&id=2433
+244,GeForce GTX 1060 (Mobile),8161,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060+%28Mobile%29&id=4086
+245,Radeon R9 290 / 390,8150,380.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+290+%2F+390&id=2719
+246,Quadro K6000,8059,210.66,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K6000&id=2666
+247,Radeon RX 470/570,8043,388.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+470%2F570&id=3558
+248,GeForce GTX 780,8020,279.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+780&id=2525
+249,Ryzen 9 6900HS,8005,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+9+6900HS&id=4623
+250,Radeon PRO W6400,7949,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+PRO+W6400&id=4530
+251,FirePro W9100,7928,1729.99,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W9100&id=3028
+252,Quadro M5500,7915,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M5500&id=3459
+253,Radeon Pro WX 7100,7897,1047.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+WX+7100&id=3611
+254,Radeon RX 6500M,7893,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6500M&id=4599
+255,GeForce GTX 1060 with Max-Q Design,7887,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1060+with+Max-Q+Design&id=3769
+256,GeForce GTX 1650,7867,159.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1650&id=4078
+257,T1200 Laptop GPU,7817,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=T1200+Laptop+GPU&id=4422
+258,Radeon RX 580X,7798,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+580X&id=4055
+259,Tesla M60,7771,787.9,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+M60&id=3774
+260,Radeon Pro 580,7753,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+580&id=3933
+261,Radeon RX 580 2048SP,7741,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+580+2048SP&id=4049
+262,Radeon RX 6500,7714,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6500&id=4843
+263,T1000,7662,404.74,https://www.videocardbenchmark.net/gpu.php?gpu=T1000&id=4442
+264,Radeon RX 5300,7661,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5300&id=4420
+265,T1000 8GB,7615,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=T1000+8GB&id=4513
+266,GeForce GTX 1650 Ti,7578,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1650+Ti&id=4195
+267,Radeon Pro 580X,7540,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+580X&id=4138
+268,Radeon Ryzen 9 6900HS,7515,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+9+6900HS&id=4680
+269,Tesla M6,7509,199.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+M6&id=3875
+270,Intel Arc A770M,7459,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc+A770M&id=4620
+271,Radeon RX 6400,7453,162.25,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6400&id=4536
+272,Radeon Ryzen 9 4900HS,7419,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+9+4900HS&id=4359
+273,GeForce GTX 980M,7341,289.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+980M&id=2976
+274,GeForce RTX 2050,7287,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+2050&id=4501
+275,FirePro W8100,7279,704.0,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W8100&id=2937
+276,Radeon Pro 5300,7230,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+5300&id=4315
+277,Tesla P100-PCIE-16GB,7225,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+P100-PCIE-16GB&id=4039
+278,Quadro T2000,7172,528.35,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+T2000&id=4113
+279,Radeon 780M,7114,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+780M&id=4818
+280,T600 Laptop GPU,7094,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=T600+Laptop+GPU&id=4424
+281,A10-8Q,7042,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=A10-8Q&id=4780
+282,Quadro M5000M,7011,546.92,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M5000M&id=3408
+283,GeForce RTX 3050 4GB Laptop GPU,7011,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3050+4GB+Laptop+GPU&id=4769
+284,RadeonT 780M,7005,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RadeonT+780M&id=4897
+285,Ryzen 7 4800HS with Radeon Graphics,6999,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+4800HS+with+Radeon+Graphics&id=4249
+286,RTX A500 Laptop GPU,6995,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTX+A500+Laptop+GPU&id=4649
+287,GeForce GTX 1650 (Mobile),6969,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1650+%28Mobile%29&id=4090
+288,Radeon Pro W5500X,6967,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+W5500X&id=4909
+289,Quadro T2000 with Max-Q Design,6949,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+T2000+with+Max-Q+Design&id=4218
+290,Quadro P2000,6916,439.6,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P2000&id=3712
+291,Ryzen 7 6800HS with Radeon Graphics,6867,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+6800HS+with+Radeon+Graphics&id=4582
+292,Radeon Pro 5500M,6816,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+5500M&id=4165
+293,GeForce GTX 970XM FORCE,6707,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+970XM+FORCE&id=3965
+294,Radeon R9 285,6680,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+285&id=4392
+295,Quadro M4000,6669,362.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M4000&id=3325
+296,Quadro T1000 with Max-Q Design,6662,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+T1000+with+Max-Q+Design&id=4295
+297,Quadro P3000,6622,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P3000&id=3688
+298,Quadro T1000,6599,375.94,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+T1000&id=4124
+299,AMD Ryzen Z1 Extreme,6583,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=AMD+Ryzen+Z1+Extreme&id=4918
+300,Radeon RX Vega M GH,6578,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+Vega+M+GH&id=3915
+301,Radeon Pro WX 7130,6578,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+WX+7130&id=4129
+302,Radeon Ryzen 7 6800HS,6567,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+6800HS&id=4661
+303,Radeon RX 6300,6545,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+6300&id=4939
+304,T600,6462,239.99,https://www.videocardbenchmark.net/gpu.php?gpu=T600&id=4439
+305,GeForce GTX 1650 Ti with Max-Q Design,6412,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1650+Ti+with+Max-Q+Design&id=4209
+306,P106-100,6356,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=P106-100&id=4044
+307,Radeon Pro 570,6337,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+570&id=4099
+308,Ryzen 9 6900HS with Radeon Graphics,6331,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+9+6900HS+with+Radeon+Graphics&id=4583
+309,GeForce GTX 1050 Ti,6307,170.29,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1050+Ti&id=3595
+310,Quadro M4000M,6266,254.91,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M4000M&id=3297
+311,Radeon R9 380X,6232,349.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+380X&id=3266
+312,Radeon R9 280X,6229,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+280X&id=3466
+313,Tesla K80,6210,593.95,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+K80&id=4448
+314,Radeon R9 380,6198,89.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+380&id=3460
+315,Radeon 680M Ryzen 7 7735HS,6180,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+680M+Ryzen+7+7735HS&id=4884
+316,GeForce MX570 A,6177,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+MX570+A&id=4595
+317,FirePro W9000,6138,845.0,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W9000&id=2281
+318,Radeon PRO W6300,6137,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+PRO+W6300&id=4831
+319,GeForce GTX 1650 with Max-Q Design,6136,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1650+with+Max-Q+Design&id=4104
+320,GeForce GTX 960,6047,172.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+960&id=3114
+321,Quadro K5200,6034,415.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K5200&id=2941
+322,GeForce MX570,6021,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+MX570&id=4560
+323,Radeon Pro 5300M,5996,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+5300M&id=4172
+324,GRID P100-16Q,5945,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+P100-16Q&id=3966
+325,GeForce GTX 1050 Ti (Mobile),5919,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1050+Ti+%28Mobile%29&id=4089
+326,GeForce GTX 770,5918,249.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+770&id=2531
+327,Ryzen 9 PRO 6950H with Radeon Graphics,5828,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+9+PRO+6950H+with+Radeon+Graphics&id=4863
+328,A16,5797,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=A16&id=4527
+329,Radeon Ryzen 7 7736U,5790,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+7736U&id=4722
+330,Ryzen 9 PRO 6950H,5759,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+9+PRO+6950H&id=4636
+331,Radeon Ryzen 7 PRO 6850H,5757,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+PRO+6850H&id=4685
+332,GeForce GTX 970M,5722,209.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+970M&id=2981
+333,Radeon PRO Ryzen 7 PRO 6850U,5691,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+PRO+Ryzen+7+PRO+6850U&id=4658
+334,Radeon Pro WX 5100,5616,359.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+WX+5100&id=3619
+335,Radeon Ryzen 7 7735H,5609,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+7735H&id=4764
+336,Radeon R9 280,5584,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+280&id=3465
+337,Ryzen 7 PRO 6850U,5581,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+PRO+6850U&id=4626
+338,GeForce GTX 690,5579,280.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+690&id=1462
+339,NVIDIA A40-12Q,5573,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=NVIDIA+A40-12Q&id=4523
+340,Ryzen 9 5900HS with Radeon Graphics,5570,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+9+5900HS+with+Radeon+Graphics&id=4397
+341,Radeon HD 7990,5566,399.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7990&id=2528
+342,Radeon R9 285 / 380,5550,485.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+285+%2F+380&id=3116
+343,GeForce GTX 680,5549,399.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+680&id=41
+344,GRID M60-8A,5523,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+M60-8A&id=4171
+345,Radeon Ryzen 9 7950X 16-Core,5515,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+9+7950X+16-Core&id=4652
+346,Quadro M3000M,5512,159.95,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M3000M&id=3394
+347,Radeon 760M,5493,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+760M&id=4902
+348,Radeon Ryzen 7 6800H,5433,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+6800H&id=4657
+349,GeForce GTX 760 Ti OEM,5427,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+760+Ti+OEM&id=4108
+350,Radeon RX 5500M,5425,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5500M&id=4193
+351,Ryzen 9 6900HX,5416,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+9+6900HX&id=4624
+352,Radeon Ryzen 7 6800HS Creator Edition,5386,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+6800HS+Creator+Edition&id=4697
+353,GeForce GTX 1050 Ti with Max-Q Design,5381,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1050+Ti+with+Max-Q+Design&id=3922
+354,Radeon Ryzen 7 7735HS,5375,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+7735HS&id=4692
+355,GRID P40-4Q,5365,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+P40-4Q&id=4080
+356,Ryzen 7 6800HS Creator Edition,5345,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+6800HS+Creator+Edition&id=4590
+357,GeForce GTX 950,5344,141.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+950&id=3295
+358,FirePro W7100,5317,389.3,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W7100&id=3130
+359,GeForce GTX 670,5316,193.98,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+670&id=35
+360,Ryzen 7 7735HS with Radeon Graphics,5307,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+7735HS+with+Radeon+Graphics&id=4864
+361,Radeon Pro Vega 20,5300,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+Vega+20&id=4016
+362,Radeon Eng Sample: 100-000000560-40_Y,5295,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Eng+Sample%3A+100-000000560-40_Y&id=4963
+363,Radeon Ryzen 9 6900HX,5287,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+9+6900HX&id=4653
+364,Radeon HD 7970 / R9 280X,5248,246.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7970+%2F+R9+280X&id=51
+365,Ryzen 7 6800H,5248,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+6800H&id=4611
+366,Ryzen 7 6800HS,5237,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+6800HS&id=4629
+367,Intel Arc Pro A40/A50,5224,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc+Pro+A40%2FA50&id=4905
+368,Radeon HD 8990,5214,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+8990&id=2727
+369,Radeon Ryzen 7 PRO 6850HS,5212,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+PRO+6850HS&id=4691
+370,GRID M60-2Q,5203,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+M60-2Q&id=3737
+371,Radeon R9 M395X,5195,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+M395X&id=3340
+372,GeForce GTX 760 Ti,5191,297.5,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+760+Ti&id=2801
+373,Radeon Ryzen 7 PRO 6850U,5174,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+PRO+6850U&id=4662
+374,Quadro P2000 with Max-Q Design,5172,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P2000+with+Max-Q+Design&id=3982
+375,Q12U-1,5164,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Q12U-1&id=3625
+376,Radeon Ryzen 7 7735U,5156,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+7735U&id=4803
+377,Radeon R9 M295X,5150,1449.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+M295X&id=2985
+378,GeForce GTX 1050 3GB,5146,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1050+3GB&id=4603
+379,Ryzen 7 PRO 6860Z,5077,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+PRO+6860Z&id=4630
+380,Ryzen 9 PRO 6950HS with Radeon Graphics,5068,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+9+PRO+6950HS+with+Radeon+Graphics&id=4586
+381,FirePro S9000,5059,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+S9000&id=3209
+382,GRID T4-16Q,5055,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+T4-16Q&id=4891
+383,GeForce GTX 1050,5050,239.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1050&id=3596
+384,EIZO Quadro MED-XN51LP,5048,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=EIZO+Quadro+MED-XN51LP&id=4000
+385,Ryzen 7 PRO 6850U with Radeon Graphics,5043,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+PRO+6850U+with+Radeon+Graphics&id=4579
+386,Radeon R9 M395,5024,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+M395&id=3346
+387,Ryzen 7 6800U,5006,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+6800U&id=4625
+388,GeForce GTX 1630,4997,189.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1630&id=4571
+389,Radeon Instinct MI25 MxGPU,4979,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Instinct+MI25+MxGPU&id=4181
+390,Barco MXRT 7600,4944,602.59,https://www.videocardbenchmark.net/gpu.php?gpu=Barco+MXRT+7600&id=4014
+391,Ryzen 7 6800H with Radeon Graphics,4922,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+6800H+with+Radeon+Graphics&id=4584
+392,Radeon R9 270X,4911,326.5,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+270X&id=2702
+393,FirePro S9050,4901,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+S9050&id=4287
+394,Ryzen 7 6800U with Radeon Graphics,4845,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+6800U+with+Radeon+Graphics&id=4588
+395,GRID P40-2Q,4844,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+P40-2Q&id=4026
+396,T550 Laptop GPU,4842,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=T550+Laptop+GPU&id=4520
+397,Intel Arc A380,4830,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc+A380&id=4568
+398,Radeon Pro Vega 16,4809,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+Vega+16&id=4098
+399,Ryzen 7 PRO 6860Z with Radeon Graphics,4789,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+PRO+6860Z+with+Radeon+Graphics&id=4587
+400,GeForce GTX 760,4784,149.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+760&id=2561
+401,GRID RTX6000P-6Q,4777,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+RTX6000P-6Q&id=4425
+402,FirePro S10000,4768,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+S10000&id=3330
+403,Radeon HD 7950 / R9 280,4765,132.2,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7950+%2F+R9+280&id=325
+404,Radeon Sky 500,4764,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Sky+500&id=4071
+405,GRID P40-24Q,4728,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+P40-24Q&id=3993
+406,Intel Arc A310,4722,109.99,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc+A310&id=4879
+407,Radeon R9 370,4722,159.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+370&id=3469
+408,Ryzen 9 6900HX with Radeon Graphics,4680,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+9+6900HX+with+Radeon+Graphics&id=4607
+409,Radeon Ryzen 7 4800HS,4672,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+4800HS&id=4362
+410,GRID V100D-2Q,4668,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+V100D-2Q&id=4846
+411,Radeon Pro WX Vega M GL,4643,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+WX+Vega+M+GL&id=4019
+412,Radeon HD 7870,4641,176.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7870&id=324
+413,Radeon Ryzen 7 PRO 6860Z,4637,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+PRO+6860Z&id=4708
+414,GeForce MX550,4592,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+MX550&id=4493
+415,A16-2Q,4583,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=A16-2Q&id=4956
+416,Radeon Ryzen 9 PRO 6950HS,4558,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+9+PRO+6950HS&id=4729
+417,B8DKMDAP,4557,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=B8DKMDAP&id=3941
+418,GeForce GTX 580,4547,139.92,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+580&id=68
+419,Radeon Eng Sample: 100-000000561-40_Y,4544,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Eng+Sample%3A+100-000000561-40_Y&id=4936
+420,Radeon Ryzen 7 6800U,4540,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+6800U&id=4648
+421,Radeon Pro 465,4538,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+465&id=4134
+422,FirePro S7000,4524,246.54,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+S7000&id=2804
+423,GRID T4-8Q,4519,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+T4-8Q&id=4196
+424,Radeon R7 370,4513,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+370&id=3471
+425,Tesla K40c,4495,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+K40c&id=4545
+426,Radeon HD 7870 XT,4470,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7870+XT&id=2557
+427,GeForce GTX 1050 (Mobile),4462,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1050+%28Mobile%29&id=4088
+428,GRID M60-1B,4457,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+M60-1B&id=3511
+429,Citrix Indirect Display Adapter,4447,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Citrix+Indirect+Display+Adapter&id=3967
+430,Quadro P1000,4434,289.99,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P1000&id=3727
+431,GRID P6-4Q,4429,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+P6-4Q&id=3913
+432,Intel Arc,4419,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc&id=4955
+433,GeForce GTX 660 Ti,4396,144.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+660+Ti&id=88
+434,FirePro W7000 Adapter,4362,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W7000+Adapter&id=2647
+435,GRID GTX P40-6,4340,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+GTX+P40-6&id=4327
+436,Tesla K20m,4331,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+K20m&id=4496
+437,Quadro K4200,4325,249.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K4200&id=2944
+438,Radeon RX 5300M,4307,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+5300M&id=4325
+439,Radeon R9 270,4306,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+270&id=3550
+440,Quadro M2200,4294,249.99,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M2200&id=3732
+441,GRID RTX6000P-4Q,4283,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+RTX6000P-4Q&id=4253
+442,FirePro W7000,4261,278.05,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W7000&id=2232
+443,Radeon R9 270 / R7 370,4260,213.16,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+270+%2F+R7+370&id=2766
+444,RTXA6000-8Q,4237,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RTXA6000-8Q&id=4789
+445,NVIDIA A40-4Q,4230,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=NVIDIA+A40-4Q&id=4643
+446,NVIDIA A40-8Q,4220,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=NVIDIA+A40-8Q&id=4655
+447,RadeonT 680M Ryzen 7 7735HS,4159,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RadeonT+680M+Ryzen+7+7735HS&id=4896
+448,GRID V100D-8Q,4156,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+V100D-8Q&id=4132
+449,Radeon Ryzen 5 7535HS,4156,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+5+7535HS&id=4808
+450,GeForce GTX 680MX,4142,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+680MX&id=2356
+451,Radeon RX 460,4113,166.81,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+460&id=3557
+452,FirePro W8000,4096,573.0,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W8000&id=2427
+453,Radeon 660M Ryzen 5 7535HS,4078,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+660M+Ryzen+5+7535HS&id=4899
+454,Radeon PRO Ryzen 5 PRO 6650U,4067,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+PRO+Ryzen+5+PRO+6650U&id=4656
+455,GeForce GTX 480,4062,169.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+480&id=100
+456,RadeonT 660M Ryzen 5 7535HS,4042,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=RadeonT+660M+Ryzen+5+7535HS&id=4859
+457,GeForce GTX 1050 with Max-Q Design,4034,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+1050+with+Max-Q+Design&id=3971
+458,Radeon HD 7800-serie,4029,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7800-serie&id=2967
+459,Radeon Ryzen 5 6600H,4014,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+5+6600H&id=4674
+460,GeForce GTX 660,3998,167.95,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+660&id=2152
+461,Quadro K5000,3986,249.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K5000&id=2258
+462,Quadro M2000,3983,264.24,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M2000&id=3512
+463,A40-24Q,3973,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=A40-24Q&id=4750
+464,GRID RTX8000-4Q,3961,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+RTX8000-4Q&id=4213
+465,GeForce GTX 570,3934,149.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+570&id=15
+466,GRID P6-2Q,3926,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+P6-2Q&id=3983
+467,GeForce GTX 750 Ti,3903,88.11,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+750+Ti&id=2815
+468,GRID M60-8Q,3884,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+M60-8Q&id=3716
+469,GeForce GTX 780M,3879,499.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+780M&id=2536
+470,Radeon HD 8970M,3876,139.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+8970M&id=2865
+471,Matrox LUMA A310F,3873,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Matrox+LUMA+A310F&id=4881
+472,Radeon HD 7850,3853,169.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7850&id=323
+473,Radeon Ryzen 5 6600HS Creator Edition,3851,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+5+6600HS+Creator+Edition&id=4681
+474,Radeon HD 7970M,3847,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7970M&id=326
+475,GRID RTX8000P-2Q,3843,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+RTX8000P-2Q&id=4311
+476,GRID P100-8Q,3841,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+P100-8Q&id=4178
+477,GRID M60-4Q,3831,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+M60-4Q&id=3483
+478,GRID V100-2Q,3811,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+V100-2Q&id=4547
+479,P104-100,3807,299.99,https://www.videocardbenchmark.net/gpu.php?gpu=P104-100&id=4206
+480,GeForce GTX 880M,3804,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+880M&id=2850
+481,Radeon Ryzen 5 7535U,3792,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+5+7535U&id=4837
+482,Radeon Ryzen 7 4800H,3791,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+4800H&id=4348
+483,Radeon Pro WX 4100,3769,499.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+WX+4100&id=3694
+484,Barco MXRT 7500,3753,299.0,https://www.videocardbenchmark.net/gpu.php?gpu=Barco+MXRT+7500&id=3353
+485,GeForce GTX 965M,3746,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+965M&id=3113
+486,GRID T4-1Q,3743,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+T4-1Q&id=4261
+487,Ryzen 7 PRO 6850HS with Radeon Graphics,3736,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+PRO+6850HS+with+Radeon+Graphics&id=4585
+488,Ryzen 5 PRO 6650H with Radeon Graphics,3727,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+5+PRO+6650H+with+Radeon+Graphics&id=4591
+489,GeForce MX450,3727,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+MX450&id=4296
+490,GRID M60-1Q,3695,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+M60-1Q&id=3749
+491,T500,3693,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=T500&id=4335
+492,Eng Sample: 100-000000545-40_Y,3692,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Eng+Sample%3A+100-000000545-40_Y&id=4580
+493,T400 4GB,3691,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=T400+4GB&id=4512
+494,Matrox LUMA A310,3690,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Matrox+LUMA+A310&id=4882
+495,Ryzen 5 6600HS Creator Edition,3686,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+5+6600HS+Creator+Edition&id=4628
+496,Ryzen 5 7535HS with Radeon Graphics,3680,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+5+7535HS+with+Radeon+Graphics&id=4866
+497,Radeon Pro 560X,3678,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+560X&id=4021
+498,Ryzen 5 6600H with Radeon Graphics,3674,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+5+6600H+with+Radeon+Graphics&id=4600
+499,Radeon Ryzen 5 PRO 6650U,3674,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+5+PRO+6650U&id=4677
+500,Radeon R9 M485X,3661,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+M485X&id=3726
+501,Radeon RX 560,3648,179.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+560&id=3708
+502,Intel Arc A370M,3646,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Arc+A370M&id=4748
+503,T400,3621,179.99,https://www.videocardbenchmark.net/gpu.php?gpu=T400&id=4446
+504,Radeon RX Vega M GL,3607,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+Vega+M+GL&id=3903
+505,Quadro P620,3602,574.55,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P620&id=3954
+506,Ryzen 5 PRO 6650U with Radeon Graphics,3575,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+5+PRO+6650U+with+Radeon+Graphics&id=4581
+507,GRID RTX8000-2Q,3574,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+RTX8000-2Q&id=4461
+508,GeForce GTX 680M KY_Bullet Edition,3569,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+680M+KY_Bullet+Edition&id=3832
+509,GRID M6-8Q,3568,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+M6-8Q&id=3867
+510,Radeon Ryzen 5 6600U,3565,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+5+6600U&id=4675
+511,GeForce GTX 775M,3551,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+775M&id=2729
+512,Quadro K2200,3551,268.3,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K2200&id=2947
+513,Microsoft Basic Display Adapter Ryzen 5 3550H,3537,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Microsoft+Basic+Display+Adapter+Ryzen+5+3550H&id=4927
+514,Ryzen 5 7535U with Radeon Graphics,3529,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+5+7535U+with+Radeon+Graphics&id=4865
+515,Ryzen 5 PRO 6650U,3519,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+5+PRO+6650U&id=4638
+516,GRID K520,3516,149.99,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+K520&id=2742
+517,Quadro 7000,3505,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+7000&id=1555
+518,Tesla M10,3490,2695.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+M10&id=4095
+519,Radeon Pro 560,3475,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+560&id=3820
+520,Radeon Pro 460,3453,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+460&id=3747
+521,GRID T4-2Q,3451,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+T4-2Q&id=4370
+522,Quadro M2000M,3450,213.16,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M2000M&id=3373
+523,GeForce GTX 870M,3449,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+870M&id=2833
+524,Quadro K2200M,3441,124.95,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K2200M&id=3175
+525,Radeon 740M,3437,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+740M&id=4926
+526,Tesla C2050 / C2070,3428,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+C2050+%2F+C2070&id=2515
+527,NVIDIA A10-4Q,3425,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=NVIDIA+A10-4Q&id=4521
+528,GeForce GTX 960M,3397,1169.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+960M&id=3176
+529,Radeon HD8970M,3369,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD8970M&id=3023
+530,Radeon E8870PCIe,3368,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+E8870PCIe&id=3831
+531,GeForce GTX 750,3364,79.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+750&id=2825
+532,GRID M10-1Q,3351,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+M10-1Q&id=3800
+533,Radeon R9 M390X,3346,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+M390X&id=3405
+534,GeForce GTX 650 Ti BOOST,3342,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+650+Ti+BOOST&id=2479
+535,GeForce GTX 590,3341,435.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+590&id=1457
+536,GRID P4-8Q,3299,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+P4-8Q&id=4788
+537,Tesla K40m,3281,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+K40m&id=4476
+538,Quadro P600,3270,214.77,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+P600&id=3729
+539,Quadro M1200,3265,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M1200&id=3651
+540,GRID T4-4Q,3260,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+T4-4Q&id=4340
+541,GeForce 770M,3246,176.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+770M&id=3519
+542,Radeon R9 M470X,3244,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+M470X&id=3574
+543,Eng Sample: 100-000000534-40_Y,3237,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Eng+Sample%3A+100-000000534-40_Y&id=4592
+544,Ryzen 5 6600U with Radeon Graphics,3233,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+5+6600U+with+Radeon+Graphics&id=4589
+545,Radeon R9 M290X,3226,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+M290X&id=2918
+546,GeForce GTX 680M,3216,135.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+680M&id=1461
+547,Ryzen 7 5800HS with Radeon Graphics,3214,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+5800HS+with+Radeon+Graphics&id=4401
+548,Radeon RX 560X,3195,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+560X&id=3955
+549,Quadro K5100M,3189,1108.84,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K5100M&id=2798
+550,Radeon R9 260,3182,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+260&id=3496
+551,Tesla C2050,3176,269.99,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+C2050&id=1669
+552,Radeon R7 260X,3175,139.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+260X&id=2701
+553,FirePro V7000,3162,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+V7000&id=2675
+554,FirePro W7170M,3162,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W7170M&id=3412
+555,Radeon Pro 555,3141,1049.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+555&id=3763
+556,Radeon Ryzen 9 7900X 12-Core,3125,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+9+7900X+12-Core&id=4659
+557,Radeon Pro 455,3113,449.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+455&id=4024
+558,Matrox LUMA A310FP,3093,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Matrox+LUMA+A310FP&id=4945
+559,Intel G35 Express,3090,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+G35+Express&id=938
+560,Radeon HD 7790,3090,139.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+7790&id=2502
+561,GeForce GTX 470,3090,59.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+470&id=55
+562,Radeon R7 360,3067,145.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+360&id=3233
+563,EIZO MED-X5000,3038,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=EIZO+MED-X5000&id=4487
+564,GeForce GTX 560 Ti,3037,129.99,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+560+Ti&id=18
+565,Radeon R9 360,3032,133.89,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+360&id=3327
+566,GeForce GTX 860M,3031,114.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+860M&id=2866
+567,Tesla C2075,3017,646.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+C2075&id=1671
+568,Radeon HD 6990,3013,498.49,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6990&id=292
+569,FirePro W5100,2980,125.99,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W5100&id=3044
+570,GRID M10-4Q,2977,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+M10-4Q&id=3964
+571,FirePro W5000,2965,184.0,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W5000&id=2227
+572,GRID K260Q,2949,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+K260Q&id=3143
+573,Tesla K20Xm,2918,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+K20Xm&id=4498
+574,Ryzen 9 5900HX with Radeon Graphics,2909,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+9+5900HX+with+Radeon+Graphics&id=4396
+575,Quadro K1200,2907,285.29,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K1200&id=3193
+576,Quadro M1000M,2892,85.99,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M1000M&id=3349
+577,Radeon R7 260,2892,89.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R7+260&id=2903
+578,Ryzen 7 PRO 4700G with Radeon Graphics,2880,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+PRO+4700G+with+Radeon+Graphics&id=4256
+579,Eng Sample: 100-000000261-50_Y,2860,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Eng+Sample%3A+100-000000261-50_Y&id=4577
+580,Radeon Pro V340 MxGPU,2853,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+V340+MxGPU&id=4011
+581,Radeon HD 6970,2844,149.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6970&id=84
+582,Tesla C2070,2840,604.0,https://www.videocardbenchmark.net/gpu.php?gpu=Tesla+C2070&id=1670
+583,GRID K280Q,2840,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+K280Q&id=3142
+584,FirePro W4300,2834,239.99,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+W4300&id=3425
+585,Quadro M620,2829,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+M620&id=3658
+586,FirePro 3D V9800,2812,2499.0,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+3D+V9800&id=443
+587,Ryzen 7 5700G with Radeon Graphics,2809,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+5700G+with+Radeon+Graphics&id=4405
+588,GeForce MX350,2808,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+MX350&id=4194
+589,FirePro M6100 FireGL V,2779,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+M6100+FireGL+V&id=3695
+590,Radeon Ryzen 7 5800H,2777,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+5800H&id=4452
+591,Radeon R9 M380,2770,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+R9+M380&id=3339
+592,GeForce GTX 770M,2765,138.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+770M&id=2534
+593,Quadro K5000M,2763,508.91,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K5000M&id=1618
+594,Custom GPU 0405,2762,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Custom+GPU+0405&id=4528
+595,Radeon Ryzen 9 5900H,2755,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+9+5900H&id=4486
+596,Radeon Ryzen 9 5980HS,2749,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+9+5980HS&id=4472
+597,Ryzen 7 5800H with Radeon Graphics,2748,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+5800H+with+Radeon+Graphics&id=4398
+598,GeForce GTX 675MX,2744,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+675MX&id=2349
+599,GRID K2,2737,4010.78,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+K2&id=2616
+600,FirePro S7150,2727,1697.99,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+S7150&id=3604
+601,FirePro V9800,2727,474.0,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+V9800&id=3423
+602,GeForce GTX 560,2723,205.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+560&id=71
+603,Radeon Pro 450,2723,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Pro+450&id=3683
+604,Quadro K4000,2716,270.0,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K4000&id=2272
+605,Ryzen 9 4900H with Radeon Graphics,2714,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+9+4900H+with+Radeon+Graphics&id=4241
+606,Radeon Ryzen 9 7900 12-Core,2711,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+9+7900+12-Core&id=4716
+607,Radeon RX 550,2704,192.01,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+550&id=3761
+608,Barco MXRT 5500,2702,299.0,https://www.videocardbenchmark.net/gpu.php?gpu=Barco+MXRT+5500&id=2699
+609,Quadro 6000,2701,4092.38,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+6000&id=1554
+610,Radeon HD 8950,2696,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+8950&id=2927
+611,GRID M10-2Q,2692,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+M10-2Q&id=4197
+612,Intel Iris Xe,2691,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Intel+Iris+Xe&id=4265
+613,Radeon Ryzen 7 5800HS,2687,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+5800HS&id=4462
+614,Ryzen 7 Pro 4750G with Radeon Graphics,2682,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+Pro+4750G+with+Radeon+Graphics&id=4231
+615,GeForce GTX 465,2679,195.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+465&id=82
+616,Radeon Eng Sample: 100-000000300-40_Y,2670,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Eng+Sample%3A+100-000000300-40_Y&id=4572
+617,Ryzen 7 5700GE with Radeon Graphics,2656,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+5700GE+with+Radeon+Graphics&id=4433
+618,FirePro R5000,2647,109.99,https://www.videocardbenchmark.net/gpu.php?gpu=FirePro+R5000&id=3444
+619,GRID P6-4A,2639,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+P6-4A&id=4531
+620,MONSTER GeForce GTX 675M,2637,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=MONSTER+GeForce+GTX+675M&id=2470
+621,Quadro K4100M,2637,261.29,https://www.videocardbenchmark.net/gpu.php?gpu=Quadro+K4100M&id=2736
+622,Ryzen 7 PRO 7730U with Radeon Graphics,2634,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+PRO+7730U+with+Radeon+Graphics&id=4873
+623,Radeon HD 6950,2628,139.99,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6950&id=36
+624,Radeon Ryzen 7 4700GE,2610,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+4700GE&id=4387
+625,Radeon Ryzen 7 PRO 4750G,2607,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+PRO+4750G&id=4347
+626,GRID M10-8Q,2606,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+M10-8Q&id=3934
+627,Radeon RX Vega 11 Ryzen 7 3700U,2602,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+RX+Vega+11+Ryzen+7+3700U&id=4943
+628,Ryzen 5 5600GE with Radeon Graphics,2602,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+5+5600GE+with+Radeon+Graphics&id=4435
+629,GRID T4-2B,2601,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+T4-2B&id=4516
+630,GeForce GTX 950A,2598,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+950A&id=3334
+631,Radeon Ryzen 7 4700G,2593,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+7+4700G&id=4357
+632,Radeon Eng Sample: 100-000000371-40_42/18_Y,2591,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Eng+Sample%3A+100-000000371-40_42%2F18_Y&id=4937
+633,GeForce GTX 950M,2584,567.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+950M&id=3171
+634,Ryzen 5 5600G with Radeon Graphics,2578,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+5+5600G+with+Radeon+Graphics&id=4406
+635,Radeon Ryzen 9 4900H,2559,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+9+4900H&id=4361
+636,Ryzen 7 PRO 4750GE with Radeon Graphics,2550,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+PRO+4750GE+with+Radeon+Graphics&id=4288
+637,Ryzen 7 PRO 5750GE with Radeon Graphics,2546,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+7+PRO+5750GE+with+Radeon+Graphics&id=4432
+638,GRID K240Q,2541,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GRID+K240Q&id=2951
+639,Radeon HD 6850 X2,2534,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+HD+6850+X2&id=3684
+640,Ryzen 9 5980HS with Radeon Graphics,2534,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Ryzen+9+5980HS+with+Radeon+Graphics&id=4400
+641,GeForce GTX 650 Ti,2532,93.05,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+650+Ti&id=2177
+642,FireStream 9370,2528,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=FireStream+9370&id=247
+643,N18E-Q1,2525,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=N18E-Q1&id=3928
+644,GeForce GTX 850M,2523,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+850M&id=2859
+645,Radeon Ryzen 5 5600GE,2520,0.0,https://www.videocardbenchmark.net/gpu.php?gpu=Radeon+Ryzen+5+5600GE&id=4744
